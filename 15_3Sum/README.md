@@ -46,3 +46,4 @@ next if i > 0 && nums[i] == nums[i - 1]
 
 ## Reference:
 * [LeetCode - 3Sum: Python solution with detailed explanation](https://leetcode.com/problems/3sum/discuss/7498/Python-solution-with-detailed-explanation)
+* [GeeksforGeeks - Find all triplets with zero sum](https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero)
