@@ -69,4 +69,5 @@ Space complexity: `O(1)`
 
 ## Reference:
 * [GeeksforGeeks - Find duplicates in O(n) time and O(1) extra space | Set 1](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space)
+* [Keith Schwarz - Archive of Interesting Code](http://keithschwarz.com/interesting/code/?dir=find-duplicate)
 
